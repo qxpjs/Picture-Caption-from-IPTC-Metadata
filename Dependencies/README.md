@@ -1,1 +1,1 @@
-Sub script for the "Picture Caption from IPTC" script.
+Sub scripts for the "Picture Caption from IPTC" script.
